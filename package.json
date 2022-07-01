@@ -16,6 +16,13 @@
     "vscjava.vscode-java-test",
     "vscjava.vscode-maven",
     "vscjava.vscode-java-dependency",
-    "VisualStudioExptTeam.vscodeintellicode"
+    "VisualStudioExptTeam.vscodeintellicode",
+    "Pivotal.vscode-boot-dev-pack",
+    "vscjava.vscode-gradle",
+    "redhat.vscode-community-server-connector",
+    "redhat.vscode-server-connector",
+    "MicroProfile-Community.vscode-microprofile-pack",
+    "shengchen.vscode-checkstyle",
+    "SonarSource.sonarlint-vscode"
   ]
 }
